@@ -1,0 +1,2 @@
+# gifinator
+custom gif creator
